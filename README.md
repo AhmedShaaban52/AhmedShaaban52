@@ -129,8 +129,11 @@ I care about the details that make a product feel solid: clean architecture, qui
 
 ---
 
-## 🤝 Let's Work Together
-
-Open to **full-time roles** and **freelance projects**, and available on **Mostaql** and **Upwork**. If you have a product to build or a team that needs a solid full stack engineer, reach out through the links at the top.
-
+## 📫 Let's Connect
+ 
+I'm always open to discussing new projects, ideas, or opportunities.
+ 
+- 📧 [ahmedshababn91@gmail.com](mailto:ahmedshababn91@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ahmed-shaaban52/)
+- 🌍 [Portfolio](https://ahmed-portfolio-nine-phi.vercel.app/)
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3a8a,50:111c33,100:0d1117&height=60&section=footer" alt="footer" width="100%"/>
