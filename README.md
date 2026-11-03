@@ -15,24 +15,27 @@
 <table align="center">
 <tr>
 <td align="center" width="210">
+&nbsp;<br/>
 <a href="mailto:ahmedshababn91@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="56" alt="Gmail"/></a><br/>
 <b>Email</b><br/>
-<sub><a href="mailto:ahmedshababn91@gmail.com">ahmedshababn91@gmail.com</a></sub>&nbsp;
+<sub><a href="mailto:ahmedshababn91@gmail.com">ahmedshababn91@gmail.com</a></sub><br/>&nbsp;
 </td>
 <td align="center" width="210">
+&nbsp;<br/>
 <a href="https://www.linkedin.com/in/ahmed-shaaban52/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="56" alt="LinkedIn"/></a><br/>
 <b>LinkedIn</b><br/>
-<sub><a href="https://www.linkedin.com/in/ahmed-shaaban52/">ahmed-shaaban52</a></sub>&nbsp;
+<sub><a href="https://www.linkedin.com/in/ahmed-shaaban52/">ahmed-shaaban52</a></sub><br/>&nbsp;
 </td>
 <td align="center" width="210">
+&nbsp;<br/>
 <a href="https://ahmed-portfolio-nine-phi.vercel.app/"><img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="56" alt="Portfolio"/></a><br/>
 <b>Portfolio</b><br/>
-<sub><a href="https://ahmed-portfolio-nine-phi.vercel.app/">ahmed-portfolio.vercel.app</a></sub>&nbsp;
+<sub><a href="https://ahmed-portfolio-nine-phi.vercel.app/">ahmed-portfolio.vercel.app</a></sub><br/>&nbsp;
 </td>
 </tr>
 </table>
 
-<p>📍 Cairo, Egypt &nbsp;•&nbsp; 🟢 Open to new opportunities</p>
+<p>📍 Cairo, Egypt &nbsp;•&nbsp; 🟢 Open to full-time roles and freelance projects</p>
 
 </div>
 
@@ -40,17 +43,11 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Software Engineer with 3+ years of experience** building production web applications. I work across the whole stack: **PHP/Laravel** and **Nest.js** on the backend, **React.js / Next.js** on the frontend.
+I build **fast, secure and accessible web products end to end**: from **Laravel and Nest.js** APIs to **React and Next.js** interfaces. I've shipped e-commerce stores, a learning management system and an event platform that real users rely on every day.
 
-| | |
-|---|---|
-| 🛒 **Products** | E-commerce and LMS platforms serving **10,000+ users** |
-| 🔐 **Backend** | RESTful APIs, MVC, JWT / Sanctum / OAuth, RBAC |
-| 💳 **Payments** | Stripe and Fawry integrations |
-| ⚡ **Quality** | Performance, accessibility (WCAG 2.1) and clean architecture |
-| 🤝 **Teamwork** | Agile/Scrum teams of 8+, code reviews, CI/CD |
+I care about the details that make a product feel solid: clean architecture, quick load times, sensible security and interfaces that work for everyone, in English and Arabic (RTL).
 
-> *"Always keep learning and improving."* 🚀
+<!-- AI PROJECTS: add a "🤖 AI Projects" section here (name, one-line impact, stack, link). -->
 
 ---
 
@@ -64,12 +61,11 @@ I'm a **Software Engineer with 3+ years of experience** building production web 
 ### Software Engineer · Exabyte LLC
 📍 Cairo, Egypt
 
-- Built **15+ production applications** (Temry Market, Learnu and more) serving **10,000+ active users**
-- Designed RESTful APIs with **Laravel**: Eloquent ORM, API Resources, Form Requests, queues, jobs and webhooks
-- Implemented **Sanctum/JWT auth, RBAC, policies & gates**, protecting against SQL injection, XSS and CSRF
+- Shipped **15+ production applications** (e-commerce, LMS, event management), owning each one from REST API to responsive UI
+- Built secure **Laravel** backends with token authentication, role-based access control and protection against SQL injection, XSS and CSRF
 - Cut API calls by **30%** with React Query caching and optimistic updates
-- Improved **Core Web Vitals by 50%** and user engagement by **25%**
-- Worked in an **Agile/Scrum team of 8+** with Git, pull requests, code reviews and GitHub Actions CI/CD
+- Raised **Core Web Vitals scores by 50%** and user engagement by **25%** through code splitting, lazy loading and image optimization
+- Delivered sprint goals in an **Agile team of 8+** through code reviews, pull requests and CI/CD
 
 </td>
 </tr>
@@ -80,22 +76,9 @@ I'm a **Software Engineer with 3+ years of experience** building production web 
 ### Freelance Frontend Developer · Taseese Online
 🌍 Remote
 
-- Improved SEO, performance and accessibility of a K-12 tutoring platform through Lighthouse audits
-- Refactored the codebase into reusable components for a more maintainable architecture
-- **Stack:** React.js, TypeScript, Vite, Requestly, Lighthouse · [🔗 Live](https://taseese-online-web-app.vercel.app/)
-
-</td>
-</tr>
-<tr>
-<td width="140" valign="top"><b>2026 – Present</b></td>
-<td>
-
-### Freelance Developer · Mostaql & Upwork
-🌍 Remote
-
-- Started freelancing on **Mostaql** and **Upwork**, with professional profiles showcasing my full stack projects
-- Bidding on web development projects with **React, Next.js, Nest.js and Laravel**
-- Currently looking for my first clients and open to new freelance work
+- Improved SEO, performance and accessibility of a live K-12 tutoring platform through Lighthouse audits
+- Refactored the codebase into reusable components for easier maintenance
+- **Stack:** React.js, TypeScript, Vite · [🔗 Live](https://taseese-online-web-app.vercel.app/)
 
 </td>
 </tr>
@@ -105,14 +88,14 @@ I'm a **Software Engineer with 3+ years of experience** building production web 
 
 ## 🚀 Featured Projects
 
-| Project | Description | Stack | Links |
+| Project | What it does | Stack | Links |
 |:--|:--|:--|:--|
-| **PizzaCraft** | Full-stack restaurant ordering platform with Stripe Checkout, Better Auth, English/Arabic (RTL) support | Next.js, TypeScript, Tailwind, Drizzle ORM, Neon Postgres, Stripe | [Live](https://pizza-craft-virid.vercel.app/) · [Code](https://github.com/AhmedShaaban52/Pizza-Craft) |
-| **Temry Market** | E-commerce storefront + admin dashboard, 500+ products, Fawry & COD payments | React, Tailwind, Ant Design, Laravel, MySQL | [Live](https://temryshop.com/) |
-| **Learnu** | LMS with enrollment for 200+ students, progress tracking, instructor analytics, RBAC | React, Tailwind, Laravel, MySQL | [Live](https://devops.exabyte-eg.com/projects/learnu/web/) |
-| **Istikbal Elite** | Furniture e-commerce with multi-filter system and search autocomplete | React, Tailwind, Ant Design, Laravel | [Live](https://devops.exabyte-eg.com/projects/istikbal/web/) |
-| **Sarar Egypt** | Premium menswear e-commerce with real-time inventory and orders | React, Tailwind, Ant Design, Laravel | [Live](http://sararegypt.com/) |
-| **Obour Party** | Event management system with user portal and admin dashboard (50+ events) | React, Vite, Tailwind, Laravel, SQLite | [Live](https://devops.exabyte-eg.com/projects/obour-party/web/) |
+| **PizzaCraft** | Restaurant ordering platform with Stripe Checkout, secure auth and full English/Arabic (RTL) support | Next.js, TypeScript, Drizzle, Postgres | [Live](https://pizza-craft-virid.vercel.app/) · [Code](https://github.com/AhmedShaaban52/Pizza-Craft) |
+| **Temry Market** | Online store and admin dashboard managing 500+ products with Fawry and COD payments | React, Laravel, MySQL | [Live](https://temryshop.com/) |
+| **Learnu** | Learning platform for 200+ students with progress tracking, instructor analytics and role-based access | React, Laravel, MySQL | [Live](https://devops.exabyte-eg.com/projects/learnu/web/) |
+| **Istikbal Elite** | Furniture store with a multi-filter system and search autocomplete | React, Laravel, MySQL | [Live](https://devops.exabyte-eg.com/projects/istikbal/web/) |
+| **Sarar Egypt** | Premium menswear store with real-time inventory and order management | React, Laravel, MySQL | [Live](http://sararegypt.com/) |
+| **Obour Party** | Event booking system with user portal and admin dashboard for 50+ events | React, Vite, Laravel | [Live](https://devops.exabyte-eg.com/projects/obour-party/web/) |
 
 ---
 
@@ -120,48 +103,34 @@ I'm a **Software Engineer with 3+ years of experience** building production web 
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=js,ts,php,python,html,css&theme=dark" alt="Languages"/>
+<img src="https://skillicons.dev/icons?i=js,ts,php,html,css&theme=dark" alt="Languages"/>
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,sass,materialui,figma&theme=dark" alt="Frontend"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,figma&theme=dark" alt="Frontend"/>
 
 **Backend & Databases**
 
-<img src="https://skillicons.dev/icons?i=laravel,nestjs,nodejs,express,mysql,postgres,sqlite,mongodb&theme=dark" alt="Backend"/>
+<img src="https://skillicons.dev/icons?i=laravel,nestjs,nodejs,mysql,postgres,mongodb&theme=dark" alt="Backend and databases"/>
 
 **Tools & DevOps**
 
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel,postman,vite,webpack,jest,cypress,playwright&theme=dark" alt="Tools"/>
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel,postman,vite&theme=dark" alt="Tools"/>
 
-<details>
-<summary><b>📚 More skills</b></summary>
-<br/>
-
-- **Backend:** Eloquent ORM, Middleware, Form Requests, Queues & Jobs, Service/Repository Pattern, OOP, SOLID, Caching, Rate Limiting
-- **Auth & Security:** Laravel Sanctum, Better Auth, JWT, OAuth 2.0, RBAC, CSRF/XSS/SQLi prevention
-- **Payments:** Stripe (Checkout, Webhooks), Fawry, Cash on Delivery
-- **Performance & SEO:** Core Web Vitals, Lighthouse, SSR, SSG, ISR, JSON-LD, WCAG 2.1, ARIA
-- **Practices:** Agile, Scrum, Mobile-First, Atomic Design, i18n (RTL/LTR)
-
-</details>
+**Also:** Stripe · Fawry · JWT / OAuth 2.0 · RBAC · Core Web Vitals · WCAG 2.1 · i18n (RTL/LTR)
 
 ---
 
-## 🎓 Education & 🌐 Languages
+## 🎓 Education & Languages
 
-| 🎓 Education | 🌐 Languages |
-|:--|:--|
-| **Capital University**<br/>Bachelor of Commerce in Management Information Systems (MIS)<br/>2018 – 2022 | **Arabic:** Native<br/>**English:** Professional Working Proficiency |
+**Bachelor of Commerce in Management Information Systems (MIS)**, Capital University · 2018 – 2022
+
+**Arabic:** Native &nbsp;•&nbsp; **English:** Professional Working Proficiency
 
 ---
 
-## 📫 Let's Connect
+## 🤝 Let's Work Together
 
-I'm always open to discussing new projects, ideas, or opportunities.
-
-- 📧 [ahmedshababn91@gmail.com](mailto:ahmedshababn91@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/ahmed-shaaban52/)
-- 🌍 [Portfolio](https://ahmed-portfolio-nine-phi.vercel.app/)
+Open to **full-time roles** and **freelance projects**, and available on **Mostaql** and **Upwork**. If you have a product to build or a team that needs a solid full stack engineer, reach out through the links at the top.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3a8a,50:111c33,100:0d1117&height=60&section=footer" alt="footer" width="100%"/>
