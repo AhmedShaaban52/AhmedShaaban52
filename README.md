@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1f6feb,100:58a6ff&height=220&section=header&text=Ahmed%20Shaaban&fontSize=54&fontColor=ffffff&fontAlignY=45&desc=Software%20Engineer&descSize=24&descAlignY=68&animation=twinkling" alt="header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:5b21b6,100:a78bfa&height=220&section=header&text=Ahmed%20Shaaban&fontSize=54&fontColor=ffffff&fontAlignY=45&desc=Software%20Engineer&descSize=24&descAlignY=68&animation=twinkling" alt="header" width="100%"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=Software+Engineer+%40+Exabyte;Full+Stack+Developer;3%2B+Years+of+Professional+Experience;React+%C2%B7+Next.js+%C2%B7+Nest.js+%C2%B7+PHP%2FLaravel" alt="Typing SVG"/></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=640&lines=Software+Engineer+%40+Exabyte;Full+Stack+Developer;3%2B+Years+of+Professional+Experience;React+%C2%B7+Next.js+%C2%B7+Nest.js+%C2%B7+PHP%2FLaravel" alt="Typing SVG"/></a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Experience-3%2B%20Years-1f6feb?style=for-the-badge" alt="3+ years"/>
+<img src="https://img.shields.io/badge/Experience-3%2B%20Years-7c3aed?style=for-the-badge" alt="3+ years"/>
 <img src="https://img.shields.io/badge/Production%20Apps-5%2B-2ea043?style=for-the-badge" alt="5+ apps"/>
 <img src="https://img.shields.io/badge/Users%20Served-10K%2B-f78166?style=for-the-badge" alt="10K+ users"/>
 
@@ -58,6 +58,19 @@ I'm a **Software Engineer with 3+ years of experience** building production web 
 </td>
 </tr>
 <tr>
+<td width="140" valign="top"><b>2026 – Present</b></td>
+<td>
+
+### Freelance Developer · Mostaql & Upwork
+🌍 Remote
+
+- Started freelancing on **Mostaql** and **Upwork**, with professional profiles showcasing my full stack projects
+- Bidding on web development projects with **React, Next.js, Nest.js and Laravel**
+- Currently looking for my first clients and open to new freelance work
+
+</td>
+</tr>
+<tr>
 <td width="140" valign="top"><b>07/2026 – 09/2026</b></td>
 <td>
 
@@ -78,12 +91,12 @@ I'm a **Software Engineer with 3+ years of experience** building production web 
 
 | Project | Description | Stack | Links |
 |:--|:--|:--|:--|
-| **🍕 PizzaCraft** | Full-stack restaurant ordering platform with Stripe Checkout, Better Auth, English/Arabic (RTL) support | Next.js, TypeScript, Tailwind, Drizzle ORM, Neon Postgres, Stripe | [Live](https://pizza-craft-virid.vercel.app/) · [Code](https://github.com/AhmedShaaban52/Pizza-Craft) |
-| **🛍️ Temry Market** | E-commerce storefront + admin dashboard, 500+ products, Fawry & COD payments | React, Tailwind, Ant Design, Laravel, MySQL | [Live](https://temryshop.com/) |
-| **🎓 Learnu** | LMS with enrollment for 200+ students, progress tracking, instructor analytics, RBAC | React, Tailwind, Laravel, MySQL | [Live](https://devops.exabyte-eg.com/projects/learnu/web/) |
-| **🛋️ Istikbal Elite** | Furniture e-commerce with multi-filter system and search autocomplete | React, Tailwind, Ant Design, Laravel | [Live](https://devops.exabyte-eg.com/projects/istikbal/web/) |
-| **👔 Sarar Egypt** | Premium menswear e-commerce with real-time inventory and orders | React, Tailwind, Ant Design, Laravel | [Live](http://sararegypt.com/) |
-| **🎉 Obour Party** | Event management system with user portal and admin dashboard (50+ events) | React, Vite, Tailwind, Laravel, SQLite | [Live](https://devops.exabyte-eg.com/projects/obour-party/web/) |
+| **PizzaCraft** | Full-stack restaurant ordering platform with Stripe Checkout, Better Auth, English/Arabic (RTL) support | Next.js, TypeScript, Tailwind, Drizzle ORM, Neon Postgres, Stripe | [Live](https://pizza-craft-virid.vercel.app/) · [Code](https://github.com/AhmedShaaban52/Pizza-Craft) |
+| **Temry Market** | E-commerce storefront + admin dashboard, 500+ products, Fawry & COD payments | React, Tailwind, Ant Design, Laravel, MySQL | [Live](https://temryshop.com/) |
+| **Learnu** | LMS with enrollment for 200+ students, progress tracking, instructor analytics, RBAC | React, Tailwind, Laravel, MySQL | [Live](https://devops.exabyte-eg.com/projects/learnu/web/) |
+| **Istikbal Elite** | Furniture e-commerce with multi-filter system and search autocomplete | React, Tailwind, Ant Design, Laravel | [Live](https://devops.exabyte-eg.com/projects/istikbal/web/) |
+| **Sarar Egypt** | Premium menswear e-commerce with real-time inventory and orders | React, Tailwind, Ant Design, Laravel | [Live](http://sararegypt.com/) |
+| **Obour Party** | Event management system with user portal and admin dashboard (50+ events) | React, Vite, Tailwind, Laravel, SQLite | [Live](https://devops.exabyte-eg.com/projects/obour-party/web/) |
 
 ---
 
@@ -123,7 +136,7 @@ I'm a **Software Engineer with 3+ years of experience** building production web 
 
 | 🎓 Education | 🌐 Languages |
 |:--|:--|
-| **Capital University**<br/>B.Com in Management Information Systems (MIS)<br/>2018 – 2022 | **Arabic:** Native<br/>**English:** Professional Working Proficiency |
+| **Capital University**<br/>Bachelor of Commerce in Management Information Systems (MIS)<br/>2018 – 2022 | **Arabic:** Native<br/>**English:** Professional Working Proficiency |
 
 ---
 
@@ -135,4 +148,4 @@ I'm always open to discussing new projects, ideas, or opportunities.
 - 💼 [LinkedIn](https://www.linkedin.com/in/ahmed-shaaban52/)
 - 🌍 [Portfolio](https://ahmed-portfolio-nine-phi.vercel.app/)
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:58a6ff,50:1f6feb,100:0d1117&height=120&section=footer&animation=twinkling" alt="footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:a78bfa,50:5b21b6,100:0d1117&height=120&section=footer&animation=twinkling" alt="footer" width="100%"/>
