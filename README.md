@@ -7,7 +7,7 @@
 <br/>
 
 <img src="https://img.shields.io/badge/Experience-3%2B%20Years-2563eb?style=for-the-badge" alt="3+ years"/>
-<img src="https://img.shields.io/badge/Production%20Apps-5%2B-2ea043?style=for-the-badge" alt="5+ apps"/>
+<img src="https://img.shields.io/badge/Production%20Apps-5%2B-2ea043?style=for-the-badge" alt="15+ apps"/>
 <img src="https://img.shields.io/badge/Users%20Served-10K%2B-f78166?style=for-the-badge" alt="10K+ users"/>
 
 <br/><br/>
