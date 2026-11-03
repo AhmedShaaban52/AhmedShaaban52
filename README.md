@@ -2,11 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:111c33,100:1e3a8a&height=130&section=header&text=Ahmed%20Shaaban&font=Poppins&fontSize=50&fontColor=ffffff&fontAlignY=52&animation=fadeIn" alt="Ahmed Shaaban" width="100%"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=60A5FA&center=true&vCenter=true&width=640&lines=Software+Engineer+at+Exabyte;3%2B+Years+of+Professional+Experience;React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+Nest.js+%C2%B7+PHP%2FLaravel" alt="Typing SVG"/></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=60A5FA&center=true&vCenter=true&width=640&lines=Software+Engineer+at+Exabyte;2.5%2B+Years+of+Professional+Experience;React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+Nest.js+%C2%B7+PHP%2FLaravel" alt="Typing SVG"/></a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Experience-3%2B%20Years-2563eb?style=for-the-badge" alt="3+ years"/>
+<img src="https://img.shields.io/badge/Experience-2.5%2B%20Years-2563eb?style=for-the-badge" alt="2.5+ years"/>
 <img src="https://img.shields.io/badge/Production%20Apps-15%2B-2ea043?style=for-the-badge" alt="15+ apps"/>
 <img src="https://img.shields.io/badge/Users%20Served-10K%2B-f78166?style=for-the-badge" alt="10K+ users"/>
 
