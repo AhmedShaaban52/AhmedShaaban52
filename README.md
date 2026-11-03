@@ -88,14 +88,67 @@ I care about the details that make a product feel solid: clean architecture, qui
 
 ## 🚀 Featured Projects
 
-| Project | What it does | Stack | Links |
-|:--|:--|:--|:--|
-| **PizzaCraft** | Restaurant ordering platform with Stripe Checkout, secure auth and full English/Arabic (RTL) support | Next.js, TypeScript, Drizzle, Postgres | [Live](https://pizza-craft-virid.vercel.app/) · [Code](https://github.com/AhmedShaaban52/Pizza-Craft) |
-| **Temry Market** | Online store and admin dashboard managing 500+ products with Fawry and COD payments | React, Laravel, MySQL | [Live](https://temryshop.com/) |
-| **Learnu** | Learning platform for 200+ students with progress tracking, instructor analytics and role-based access | React, Laravel, MySQL | [Live](https://devops.exabyte-eg.com/projects/learnu/web/) |
-| **Istikbal Elite** | Furniture store with a multi-filter system and search autocomplete | React, Laravel, MySQL | [Live](https://devops.exabyte-eg.com/projects/istikbal/web/) |
-| **Sarar Egypt** | Premium menswear store with real-time inventory and order management | React, Laravel, MySQL | [Live](http://sararegypt.com/) |
-| **Obour Party** | Event booking system with user portal and admin dashboard for 50+ events | React, Vite, Laravel | [Live](https://devops.exabyte-eg.com/projects/obour-party/web/) |
+### 🍕 [PizzaCraft](https://pizza-craft-virid.vercel.app/)
+
+> A full-stack restaurant ordering platform built with **Next.js**, **TypeScript** and **Postgres**, featuring:
+
+- Filterable menu, cart, favorites and time-limited combo deals with a live countdown
+- Secure authentication with Better Auth (email/password, social sign-in, protected routes)
+- Stripe Checkout with webhook-driven order confirmation
+- English/Arabic support with full RTL layout
+- 🔗 [Source code on GitHub](https://github.com/AhmedShaaban52/Pizza-Craft)
+
+---
+
+### 🛍️ [Temry Market](https://temryshop.com/)
+
+> A live e-commerce store with an admin portal built with **React**, **Laravel** and **MySQL**, featuring:
+
+- Storefront and admin dashboard managing a 500+ product catalog
+- Cart, checkout and the full order lifecycle
+- Fawry payments and Cash on Delivery
+- Real-time sync of products, orders and inventory through REST APIs
+
+---
+
+### 🎓 [Learnu](https://devops.exabyte-eg.com/projects/learnu/web/)
+
+> A learning management system built with **React**, **Laravel** and **MySQL**, featuring:
+
+- Enrollment for 200+ students with progress tracking
+- Instructor analytics dashboard
+- Role-based access for students, instructors and admins
+- Accessible, responsive design across desktop, tablet and mobile
+
+---
+
+### 🛋️ [Istikbal Elite](https://devops.exabyte-eg.com/projects/istikbal/web/)
+
+> A furniture e-commerce platform built with **React**, **Laravel** and **MySQL**, featuring:
+
+- Product categorization with a multi-filter system across 8 categories
+- Search with autocomplete for easier product discovery
+- React frontend connected to Laravel REST APIs for products, categories and filters
+
+---
+
+### 👔 [Sarar Egypt](http://sararegypt.com/)
+
+> A premium menswear e-commerce platform built with **React**, **Laravel** and **MySQL**, featuring:
+
+- Catalog browsing and category filtering
+- Product pages, cart and checkout with real-time inventory and orders
+- Reusable Ant Design and Tailwind CSS components for a consistent look
+
+---
+
+### 🎉 [Obour Party](https://devops.exabyte-eg.com/projects/obour-party/web/)
+
+> An event management application built with **React**, **Laravel** and **SQLite**, featuring:
+
+- User portal and admin dashboard for booking and attendee tracking across 50+ events
+- Laravel API with JWT authentication and CRUD operations
+- Responsive React interface built with Vite and Tailwind CSS
 
 ---
 
