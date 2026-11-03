@@ -1,20 +1,36 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:5b21b6,100:a78bfa&height=220&section=header&text=Ahmed%20Shaaban&fontSize=54&fontColor=ffffff&fontAlignY=45&desc=Software%20Engineer&descSize=24&descAlignY=68&animation=twinkling" alt="header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:b45309,100:fbbf24&height=220&section=header&text=Ahmed%20Shaaban&fontSize=54&fontColor=ffffff&fontAlignY=45&desc=Software%20Engineer&descSize=24&descAlignY=68&animation=twinkling" alt="header" width="100%"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=640&lines=Software+Engineer+%40+Exabyte;Full+Stack+Developer;3%2B+Years+of+Professional+Experience;React+%C2%B7+Next.js+%C2%B7+Nest.js+%C2%B7+PHP%2FLaravel" alt="Typing SVG"/></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=FBBF24&center=true&vCenter=true&width=640&lines=Software+Engineer+%40+Exabyte;Full+Stack+Developer;3%2B+Years+of+Professional+Experience;React+%C2%B7+Next.js+%C2%B7+Nest.js+%C2%B7+PHP%2FLaravel" alt="Typing SVG"/></a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Experience-3%2B%20Years-7c3aed?style=for-the-badge" alt="3+ years"/>
+<img src="https://img.shields.io/badge/Experience-3%2B%20Years-d97706?style=for-the-badge" alt="3+ years"/>
 <img src="https://img.shields.io/badge/Production%20Apps-5%2B-2ea043?style=for-the-badge" alt="5+ apps"/>
 <img src="https://img.shields.io/badge/Users%20Served-10K%2B-f78166?style=for-the-badge" alt="10K+ users"/>
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/ahmed-shaaban52/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://ahmed-portfolio-nine-phi.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-<a href="mailto:ahmedshababn91@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<table align="center">
+<tr>
+<td align="center" width="210">
+<a href="mailto:ahmedshababn91@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="56" alt="Gmail"/></a><br/>
+<b>Email</b><br/>
+<sub><a href="mailto:ahmedshababn91@gmail.com">ahmedshababn91@gmail.com</a></sub>
+</td>
+<td align="center" width="210">
+<a href="https://www.linkedin.com/in/ahmed-shaaban52/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="56" alt="LinkedIn"/></a><br/>
+<b>LinkedIn</b><br/>
+<sub><a href="https://www.linkedin.com/in/ahmed-shaaban52/">ahmed-shaaban52</a></sub>
+</td>
+<td align="center" width="210">
+<a href="https://ahmed-portfolio-nine-phi.vercel.app/"><img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="56" alt="Portfolio"/></a><br/>
+<b>Portfolio</b><br/>
+<sub><a href="https://ahmed-portfolio-nine-phi.vercel.app/">ahmed-portfolio.vercel.app</a></sub>
+</td>
+</tr>
+</table>
 
 <p>📍 Cairo, Egypt &nbsp;•&nbsp; 🟢 Open to new opportunities</p>
 
@@ -58,19 +74,6 @@ I'm a **Software Engineer with 3+ years of experience** building production web 
 </td>
 </tr>
 <tr>
-<td width="140" valign="top"><b>2026 – Present</b></td>
-<td>
-
-### Freelance Developer · Mostaql & Upwork
-🌍 Remote
-
-- Started freelancing on **Mostaql** and **Upwork**, with professional profiles showcasing my full stack projects
-- Bidding on web development projects with **React, Next.js, Nest.js and Laravel**
-- Currently looking for my first clients and open to new freelance work
-
-</td>
-</tr>
-<tr>
 <td width="140" valign="top"><b>07/2026 – 09/2026</b></td>
 <td>
 
@@ -80,6 +83,19 @@ I'm a **Software Engineer with 3+ years of experience** building production web 
 - Improved SEO, performance and accessibility of a K-12 tutoring platform through Lighthouse audits
 - Refactored the codebase into reusable components for a more maintainable architecture
 - **Stack:** React.js, TypeScript, Vite, Requestly, Lighthouse · [🔗 Live](https://taseese-online-web-app.vercel.app/)
+
+</td>
+</tr>
+<tr>
+<td width="140" valign="top"><b>2026 – Present</b></td>
+<td>
+
+### Freelance Developer · Mostaql & Upwork
+🌍 Remote
+
+- Started freelancing on **Mostaql** and **Upwork**, with professional profiles showcasing my full stack projects
+- Bidding on web development projects with **React, Next.js, Nest.js and Laravel**
+- Currently looking for my first clients and open to new freelance work
 
 </td>
 </tr>
@@ -148,4 +164,4 @@ I'm always open to discussing new projects, ideas, or opportunities.
 - 💼 [LinkedIn](https://www.linkedin.com/in/ahmed-shaaban52/)
 - 🌍 [Portfolio](https://ahmed-portfolio-nine-phi.vercel.app/)
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:a78bfa,50:5b21b6,100:0d1117&height=120&section=footer&animation=twinkling" alt="footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:fbbf24,50:b45309,100:0d1117&height=120&section=footer&animation=twinkling" alt="footer" width="100%"/>
