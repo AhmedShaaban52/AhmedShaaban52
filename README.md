@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="./header.svg" alt="Ahmed Shaaban - Software Engineer" width="100%"/>
+<a href="https://github.com/AhmedShaaban52"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=46&duration=3500&pause=2000&color=EF4444&center=true&vCenter=true&width=700&height=80&lines=Ahmed+Shaaban" alt="Ahmed Shaaban"/></a>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=EF4444&center=true&vCenter=true&width=640&lines=Software+Engineer+%40+Exabyte;Full+Stack+Developer;3%2B+Years+of+Professional+Experience;React+%C2%B7+Next.js+%C2%B7+Nest.js+%C2%B7+PHP%2FLaravel" alt="Typing SVG"/></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=FCA5A5&center=true&vCenter=true&width=640&lines=Software+Engineer+%40+Exabyte;Full+Stack+Developer;3%2B+Years+of+Professional+Experience;React+%C2%B7+Next.js+%C2%B7+Nest.js+%C2%B7+PHP%2FLaravel" alt="Typing SVG"/></a>
 
 <br/>
 
