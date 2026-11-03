@@ -107,17 +107,17 @@ I care about the details that make a product feel solid: clean architecture, qui
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,figma&theme=dark" alt="Frontend"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,astro,redux,tailwind,gsap,threejs,figma&theme=dark" alt="Frontend"/>
 
 **Backend & Databases**
 
-<img src="https://skillicons.dev/icons?i=laravel,nestjs,nodejs,mysql,postgres,mongodb&theme=dark" alt="Backend and databases"/>
+<img src="https://skillicons.dev/icons?i=laravel,nestjs,nodejs,mysql,postgres,mongodb,prisma,drizzle,neon&theme=dark" alt="Backend and databases"/>
 
 **Tools & DevOps**
 
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel,postman,vite&theme=dark" alt="Tools"/>
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel,postman,vite,stripe&theme=dark" alt="Tools"/>
 
-**Also:** Stripe · Fawry · JWT / OAuth 2.0 · RBAC · Core Web Vitals · WCAG 2.1 · i18n (RTL/LTR)
+**Also:** Stripe Checkout & Webhooks · Fawry · JWT / OAuth 2.0 · RBAC · Core Web Vitals · WCAG 2.1 · i18n (RTL/LTR)
 
 ---
 
