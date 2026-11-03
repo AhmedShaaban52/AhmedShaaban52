@@ -17,7 +17,7 @@
 <td align="center" width="210">
 <a href="mailto:ahmedshababn91@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="56" alt="Gmail"/></a><br/>
 <b>Email</b><br/>
-<sub><a href="mailto:ahmedshababn91@gmail.com">ahmedshababn91@gmail.com</a></sub><br/>&nbsp;
+<sub><a href="mailto:ahmedshababn91@gmail.com">ahmedshababn91@gmail.com</a></sub>&nbsp;
 </td>
 <td align="center" width="210">
 <a href="https://www.linkedin.com/in/ahmed-shaaban52/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="56" alt="LinkedIn"/></a><br/>
@@ -27,7 +27,7 @@
 <td align="center" width="210">
 <a href="https://ahmed-portfolio-nine-phi.vercel.app/"><img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="56" alt="Portfolio"/></a><br/>
 <b>Portfolio</b><br/>
-<sub><a href="https://ahmed-portfolio-nine-phi.vercel.app/">ahmed-portfolio.vercel.app</a></sub><br/>&nbsp;
+<sub><a href="https://ahmed-portfolio-nine-phi.vercel.app/">ahmed-portfolio.vercel.app</a></sub>&nbsp;
 </td>
 </tr>
 </table>
