@@ -105,21 +105,6 @@ Full Stack Developer with **2+ years of experience** building production web app
 
 </details>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AhmedShaaban52&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedShaaban52&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AhmedShaaban52&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
-</p>
-
----
-
 ## 🎓 Education
 
 **Capital University** — B.Com in Management Information Systems (MIS) · 2018 – 2022
