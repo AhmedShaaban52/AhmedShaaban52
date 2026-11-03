@@ -7,7 +7,7 @@
 <br/>
 
 <img src="https://img.shields.io/badge/Experience-3%2B%20Years-2563eb?style=for-the-badge" alt="3+ years"/>
-<img src="https://img.shields.io/badge/Production%20Apps-5%2B-2ea043?style=for-the-badge" alt="15+ apps"/>
+<img src="https://img.shields.io/badge/Production%20Apps-15%2B-2ea043?style=for-the-badge" alt="15+ apps"/>
 <img src="https://img.shields.io/badge/Users%20Served-10K%2B-f78166?style=for-the-badge" alt="10K+ users"/>
 
 <br/><br/>
@@ -64,7 +64,7 @@ I'm a **Software Engineer with 3+ years of experience** building production web 
 ### Software Engineer · Exabyte LLC
 📍 Cairo, Egypt
 
-- Built **5+ production applications** (Temry Market, Learnu and more) serving **10,000+ active users**
+- Built **15+ production applications** (Temry Market, Learnu and more) serving **10,000+ active users**
 - Designed RESTful APIs with **Laravel**: Eloquent ORM, API Resources, Form Requests, queues, jobs and webhooks
 - Implemented **Sanctum/JWT auth, RBAC, policies & gates**, protecting against SQL injection, XSS and CSRF
 - Cut API calls by **30%** with React Query caching and optimistic updates
