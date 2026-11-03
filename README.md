@@ -97,7 +97,7 @@ I care about the details that make a product feel solid: clean architecture, qui
 - Stripe Checkout with webhook-driven order confirmation
 - English/Arabic support with full RTL layout
 - 🔗 [Live Demo](https://pizza-craft-virid.vercel.app/)
-- 🔗 [code on GitHub](https://github.com/AhmedShaaban52/Pizza-Craft)
+- 🔗 [Code on GitHub](https://github.com/AhmedShaaban52/Pizza-Craft)
 
 ---
 
