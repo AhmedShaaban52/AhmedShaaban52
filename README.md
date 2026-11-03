@@ -120,13 +120,13 @@ I care about the details that make a product feel solid: clean architecture, qui
 **Also:** Stripe · Fawry · JWT / OAuth 2.0 · RBAC · Core Web Vitals · WCAG 2.1 · i18n (RTL/LTR)
 
 ---
-
-## 🎓 Education & Languages
-
-**Bachelor of Commerce in Management Information Systems (MIS)**, Capital University · 2018 – 2022
-
-**Arabic:** Native &nbsp;•&nbsp; **English:** Professional Working Proficiency
-
+ 
+## 🎓 Education & 🌐 Languages
+ 
+| 🎓 Education | 🌐 Languages |
+|:--|:--|
+| **Capital University**<br/>Bachelor of Commerce in Management Information Systems (MIS)<br/>2018 – 2022 | **Arabic:** Native<br/>**English:** Professional Working Proficiency |
+ 
 ---
 
 ## 📫 Let's Connect
