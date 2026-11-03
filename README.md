@@ -22,7 +22,7 @@
 <td align="center" width="210">
 <a href="https://www.linkedin.com/in/ahmed-shaaban52/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="56" alt="LinkedIn"/></a><br/>
 <b>LinkedIn</b><br/>
-<sub><a href="https://www.linkedin.com/in/ahmed-shaaban52/">ahmed-shaaban52</a></sub><br/>&nbsp;
+<sub><a href="https://www.linkedin.com/in/ahmed-shaaban52/">ahmed-shaaban52</a></sub>&nbsp;
 </td>
 <td align="center" width="210">
 <a href="https://ahmed-portfolio-nine-phi.vercel.app/"><img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="56" alt="Portfolio"/></a><br/>
