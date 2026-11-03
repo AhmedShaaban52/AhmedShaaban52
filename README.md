@@ -1,6 +1,8 @@
 <h1 align="center">👋 Hi, I'm Ahmed Shaaban</h1>
 
-<h3 align="center">💻 Full Stack Developer | PHP/Laravel · React · Next.js · AI</h3>
+<h2 align="center">💻 Software Engineer at Extabyte </h2>
+
+<h3 align="center">💻 Full Stack Developer | React · Next.js · Nest.js · PHP/Laravel </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmed-shaaban52/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
