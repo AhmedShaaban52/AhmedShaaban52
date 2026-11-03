@@ -1,12 +1,12 @@
 <div align="center">
 
-<a href="https://github.com/AhmedShaaban52"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=46&duration=3500&pause=2000&color=EF4444&center=true&vCenter=true&width=700&height=80&lines=Ahmed+Shaaban" alt="Ahmed Shaaban"/></a>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:111c33,100:1e3a8a&height=130&section=header&text=Ahmed%20Shaaban&fontSize=50&fontColor=ffffff&fontAlignY=52&animation=fadeIn" alt="Ahmed Shaaban" width="100%"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=FCA5A5&center=true&vCenter=true&width=640&lines=Software+Engineer+%40+Exabyte;Full+Stack+Developer;3%2B+Years+of+Professional+Experience;React+%C2%B7+Next.js+%C2%B7+Nest.js+%C2%B7+PHP%2FLaravel" alt="Typing SVG"/></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=60A5FA&center=true&vCenter=true&width=640&lines=Software+Engineer+%40+Exabyte;Full+Stack+Developer;3%2B+Years+of+Professional+Experience;React+%C2%B7+Next.js+%C2%B7+Nest.js+%C2%B7+PHP%2FLaravel" alt="Typing SVG"/></a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Experience-3%2B%20Years-dc2626?style=for-the-badge" alt="3+ years"/>
+<img src="https://img.shields.io/badge/Experience-3%2B%20Years-2563eb?style=for-the-badge" alt="3+ years"/>
 <img src="https://img.shields.io/badge/Production%20Apps-5%2B-2ea043?style=for-the-badge" alt="5+ apps"/>
 <img src="https://img.shields.io/badge/Users%20Served-10K%2B-f78166?style=for-the-badge" alt="10K+ users"/>
 
@@ -164,4 +164,4 @@ I'm always open to discussing new projects, ideas, or opportunities.
 - 💼 [LinkedIn](https://www.linkedin.com/in/ahmed-shaaban52/)
 - 🌍 [Portfolio](https://ahmed-portfolio-nine-phi.vercel.app/)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:7f1d1d,100:b91c1c&height=70&section=footer" alt="footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3a8a,50:111c33,100:0d1117&height=60&section=footer" alt="footer" width="100%"/>
