@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=180&section=header&text=Ahmed%20Shaaban&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer&descSize=22&descAlignY=60" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1f6feb,100:58a6ff&height=220&section=header&text=Ahmed%20Shaaban&fontSize=54&fontColor=ffffff&fontAlignY=45&desc=Software%20Engineer&descSize=24&descAlignY=68&animation=twinkling" alt="header" width="100%"/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=Software+Engineer+%40+Exabyte;Full+Stack+Developer;3%2B+Years+of+Professional+Experience;React+%C2%B7+Next.js+%C2%B7+Nest.js+%C2%B7+PHP%2FLaravel" alt="Typing SVG"/></a>
 
@@ -89,21 +89,21 @@ I'm a **Software Engineer with 3+ years of experience** building production web 
 
 ## 🧰 Tech Stack
 
-<div align="center">
+**Languages**
 
-**Languages**<br/>
 <img src="https://skillicons.dev/icons?i=js,ts,php,python,html,css&theme=dark" alt="Languages"/>
 
-**Frontend**<br/>
+**Frontend**
+
 <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,sass,materialui,figma&theme=dark" alt="Frontend"/>
 
-**Backend & Databases**<br/>
+**Backend & Databases**
+
 <img src="https://skillicons.dev/icons?i=laravel,nestjs,nodejs,express,mysql,postgres,sqlite,mongodb&theme=dark" alt="Backend"/>
 
-**Tools & DevOps**<br/>
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel,postman,vite,webpack,jest,cypress,playwright&theme=dark" alt="Tools"/>
+**Tools & DevOps**
 
-</div>
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel,postman,vite,webpack,jest,cypress,playwright&theme=dark" alt="Tools"/>
 
 <details>
 <summary><b>📚 More skills</b></summary>
@@ -135,4 +135,4 @@ I'm always open to discussing new projects, ideas, or opportunities.
 - 💼 [LinkedIn](https://www.linkedin.com/in/ahmed-shaaban52/)
 - 🌍 [Portfolio](https://ahmed-portfolio-nine-phi.vercel.app/)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f6feb,100:0d1117&height=100&section=footer" alt="footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:58a6ff,50:1f6feb,100:0d1117&height=120&section=footer&animation=twinkling" alt="footer" width="100%"/>
