@@ -107,15 +107,15 @@ I care about the details that make a product feel solid: clean architecture, qui
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,astro,redux,tailwind,gsap,threejs,figma&theme=dark" alt="Frontend"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,figma&theme=dark" alt="Frontend"/>&nbsp;<img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/astro.svg" width="48" height="48" alt="Astro"/>&nbsp;<img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/gsap-dark.svg" width="48" height="48" alt="GSAP"/>&nbsp;<img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/threejs-dark.svg" width="48" height="48" alt="Three.js"/>
 
 **Backend & Databases**
 
-<img src="https://skillicons.dev/icons?i=laravel,nestjs,nodejs,mysql,postgres,mongodb,prisma,drizzle,neon&theme=dark" alt="Backend and databases"/>
+<img src="https://skillicons.dev/icons?i=laravel,nestjs,nodejs,mysql,postgres,mongodb&theme=dark" alt="Backend and databases"/>&nbsp;<img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/prisma.svg" width="48" height="48" alt="Prisma"/>&nbsp;<img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/drizzle-dark.svg" width="48" height="48" alt="Drizzle"/>&nbsp;<img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/neon-dark.svg" width="48" height="48" alt="Neon"/>
 
 **Tools & DevOps**
 
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel,postman,vite,stripe&theme=dark" alt="Tools"/>
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel,postman,vite&theme=dark" alt="Tools"/>&nbsp;<img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/stripe-dark.svg" width="48" height="48" alt="Stripe"/>
 
 **Also:** Stripe Checkout & Webhooks · Fawry · JWT / OAuth 2.0 · RBAC · Core Web Vitals · WCAG 2.1 · i18n (RTL/LTR)
 
