@@ -96,6 +96,7 @@ I care about the details that make a product feel solid: clean architecture, qui
 - Secure authentication with Better Auth (email/password, social sign-in, protected routes)
 - Stripe Checkout with webhook-driven order confirmation
 - English/Arabic support with full RTL layout
+- 🔗 [Live Demo](https://pizza-craft-virid.vercel.app/)
 - 🔗 [Source code on GitHub](https://github.com/AhmedShaaban52/Pizza-Craft)
 
 ---
@@ -108,6 +109,7 @@ I care about the details that make a product feel solid: clean architecture, qui
 - Cart, checkout and the full order lifecycle
 - Fawry payments and Cash on Delivery
 - Real-time sync of products, orders and inventory through REST APIs
+- 🔗 [Live Demo](https://temryshop.com/)
 
 ---
 
@@ -119,6 +121,7 @@ I care about the details that make a product feel solid: clean architecture, qui
 - Instructor analytics dashboard
 - Role-based access for students, instructors and admins
 - Accessible, responsive design across desktop, tablet and mobile
+- 🔗 [Live Demo](https://devops.exabyte-eg.com/projects/learnu/web/)
 
 ---
 
@@ -129,6 +132,7 @@ I care about the details that make a product feel solid: clean architecture, qui
 - Product categorization with a multi-filter system across 8 categories
 - Search with autocomplete for easier product discovery
 - React frontend connected to Laravel REST APIs for products, categories and filters
+- 🔗 [Live Demo](https://devops.exabyte-eg.com/projects/istikbal/web/)
 
 ---
 
@@ -139,6 +143,7 @@ I care about the details that make a product feel solid: clean architecture, qui
 - Catalog browsing and category filtering
 - Product pages, cart and checkout with real-time inventory and orders
 - Reusable Ant Design and Tailwind CSS components for a consistent look
+- 🔗 [Live Demo](http://sararegypt.com/)
 
 ---
 
@@ -149,6 +154,7 @@ I care about the details that make a product feel solid: clean architecture, qui
 - User portal and admin dashboard for booking and attendee tracking across 50+ events
 - Laravel API with JWT authentication and CRUD operations
 - Responsive React interface built with Vite and Tailwind CSS
+- 🔗 [Live Demo](https://devops.exabyte-eg.com/projects/obour-party/web/)
 
 ---
 
