@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:b45309,100:fbbf24&height=220&section=header&text=Ahmed%20Shaaban&fontSize=54&fontColor=ffffff&fontAlignY=45&desc=Software%20Engineer&descSize=24&descAlignY=68&animation=twinkling" alt="header" width="100%"/>
+<img src="./header.svg" alt="Ahmed Shaaban - Software Engineer" width="100%"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=FBBF24&center=true&vCenter=true&width=640&lines=Software+Engineer+%40+Exabyte;Full+Stack+Developer;3%2B+Years+of+Professional+Experience;React+%C2%B7+Next.js+%C2%B7+Nest.js+%C2%B7+PHP%2FLaravel" alt="Typing SVG"/></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=EF4444&center=true&vCenter=true&width=640&lines=Software+Engineer+%40+Exabyte;Full+Stack+Developer;3%2B+Years+of+Professional+Experience;React+%C2%B7+Next.js+%C2%B7+Nest.js+%C2%B7+PHP%2FLaravel" alt="Typing SVG"/></a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Experience-3%2B%20Years-d97706?style=for-the-badge" alt="3+ years"/>
+<img src="https://img.shields.io/badge/Experience-3%2B%20Years-dc2626?style=for-the-badge" alt="3+ years"/>
 <img src="https://img.shields.io/badge/Production%20Apps-5%2B-2ea043?style=for-the-badge" alt="5+ apps"/>
 <img src="https://img.shields.io/badge/Users%20Served-10K%2B-f78166?style=for-the-badge" alt="10K+ users"/>
 
@@ -164,4 +164,4 @@ I'm always open to discussing new projects, ideas, or opportunities.
 - 💼 [LinkedIn](https://www.linkedin.com/in/ahmed-shaaban52/)
 - 🌍 [Portfolio](https://ahmed-portfolio-nine-phi.vercel.app/)
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:fbbf24,50:b45309,100:0d1117&height=120&section=footer&animation=twinkling" alt="footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:7f1d1d,100:b91c1c&height=70&section=footer" alt="footer" width="100%"/>
