@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:111c33,100:1e3a8a&height=130&section=header&text=Ahmed%20Shaaban&font=Poppins&fontSize=50&fontColor=ffffff&fontAlignY=52&animation=fadeIn" alt="Ahmed Shaaban" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:111c33,100:1e3a8a&height=130§ion=header&text=Ahmed%20Shaaban&font=Poppins&fontSize=50&fontColor=ffffff&fontAlignY=52&animation=fadeIn" alt="Ahmed Shaaban" width="100%"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=60A5FA&center=true&vCenter=true&width=640&lines=Software+Engineer+at+Exabyte;3%2B+Years+of+Professional+Experience;React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+Nest.js+%C2%B7+PHP%2FLaravel" alt="Typing SVG"/></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=60A5FA¢er=true&vCenter=true&width=640&lines=Software+Engineer+at+Exabyte;2%2B+Years+of+Professional+Experience;React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+Nest.js+%C2%B7+PHP%2FLaravel" alt="Typing SVG"/></a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Experience-3%2B%20Years-2563eb?style=for-the-badge" alt="3+ years"/>
+<img src="https://img.shields.io/badge/Experience-2%2B%20Years-2563eb?style=for-the-badge" alt="2+ years"/>
 <img src="https://img.shields.io/badge/Production%20Apps-15%2B-2ea043?style=for-the-badge" alt="15+ apps"/>
 <img src="https://img.shields.io/badge/Users%20Served-10K%2B-f78166?style=for-the-badge" alt="10K+ users"/>
 
@@ -15,27 +15,27 @@
 <table align="center">
 <tr>
 <td align="center" width="210">
-&nbsp;<br/>
+ <br/>
 <a href="mailto:ahmedshababn91@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="56" alt="Gmail"/></a><br/>
 <b>Email</b><br/>
-<sub><a href="mailto:ahmedshababn91@gmail.com">ahmedshababn91@gmail.com</a></sub><br/>&nbsp;
+<sub><a href="mailto:ahmedshababn91@gmail.com">ahmedshababn91@gmail.com</a></sub><br/> 
 </td>
 <td align="center" width="210">
-&nbsp;<br/>
+ <br/>
 <a href="https://www.linkedin.com/in/ahmed-shaaban52/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="56" alt="LinkedIn"/></a><br/>
 <b>LinkedIn</b><br/>
-<sub><a href="https://www.linkedin.com/in/ahmed-shaaban52/">ahmed-shaaban52</a></sub><br/>&nbsp;
+<sub><a href="https://www.linkedin.com/in/ahmed-shaaban52/">ahmed-shaaban52</a></sub><br/> 
 </td>
 <td align="center" width="210">
-&nbsp;<br/>
+ <br/>
 <a href="https://ahmed-portfolio-nine-phi.vercel.app/"><img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="56" alt="Portfolio"/></a><br/>
 <b>Portfolio</b><br/>
-<sub><a href="https://ahmed-portfolio-nine-phi.vercel.app/">ahmed-portfolio.vercel.app</a></sub><br/>&nbsp;
+<sub><a href="https://ahmed-portfolio-nine-phi.vercel.app/">ahmed-portfolio.vercel.app</a></sub><br/> 
 </td>
 </tr>
 </table>
 
-<p>📍 Cairo, Egypt &nbsp;•&nbsp; 🟢 Open to full-time roles and freelance projects</p>
+<p>📍 Cairo, Egypt  •  🟢 Open to full-time roles and freelance projects</p>
 
 </div>
 
@@ -166,15 +166,15 @@ I care about the details that make a product feel solid: clean architecture, qui
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,figma&theme=dark" alt="Frontend"/>&nbsp;<img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/astro.svg" width="48" height="48" alt="Astro"/>&nbsp;<img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/gsap-dark.svg" width="48" height="48" alt="GSAP"/>&nbsp;<img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/threejs-dark.svg" width="48" height="48" alt="Three.js"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,figma&theme=dark" alt="Frontend"/> <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/astro.svg" width="48" height="48" alt="Astro"/> <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/gsap-dark.svg" width="48" height="48" alt="GSAP"/> <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/threejs-dark.svg" width="48" height="48" alt="Three.js"/>
 
 **Backend & Databases**
 
-<img src="https://skillicons.dev/icons?i=laravel,nestjs,nodejs,mysql,postgres,mongodb&theme=dark" alt="Backend and databases"/>&nbsp;<img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/prisma.svg" width="48" height="48" alt="Prisma"/>&nbsp;<img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/drizzle-dark.svg" width="48" height="48" alt="Drizzle"/>&nbsp;<img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/neon-dark.svg" width="48" height="48" alt="Neon"/>
+<img src="https://skillicons.dev/icons?i=laravel,nestjs,nodejs,mysql,postgres,mongodb&theme=dark" alt="Backend and databases"/> <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/prisma.svg" width="48" height="48" alt="Prisma"/> <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/drizzle-dark.svg" width="48" height="48" alt="Drizzle"/> <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/neon-dark.svg" width="48" height="48" alt="Neon"/>
 
 **Tools & DevOps**
 
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel,postman,vite&theme=dark" alt="Tools"/>&nbsp;<img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/stripe-dark.svg" width="48" height="48" alt="Stripe"/>
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel,postman,vite&theme=dark" alt="Tools"/> <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/stripe-dark.svg" width="48" height="48" alt="Stripe"/>
 
 **Also:** Stripe Checkout & Webhooks · Fawry · JWT / OAuth 2.0 · RBAC · Core Web Vitals · WCAG 2.1 · i18n (RTL/LTR)
 
@@ -196,4 +196,4 @@ I'm always open to discussing new projects, ideas, or opportunities.
 - 💼 [LinkedIn](https://www.linkedin.com/in/ahmed-shaaban52/)
 - 🌍 [Portfolio](https://ahmed-portfolio-nine-phi.vercel.app/)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3a8a,50:111c33,100:0d1117&height=60&section=footer" alt="footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3a8a,50:111c33,100:0d1117&height=60§ion=footer" alt="footer" width="100%"/>
